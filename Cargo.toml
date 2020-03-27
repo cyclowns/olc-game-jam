@@ -1,0 +1,16 @@
+[package]
+name = "olc-game-jam"
+version = "0.1.0"
+authors = ["cyclowns <notzombiedude@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ggez="0.5.1"
+ggez-goodies="0.5.0"
+specs="0.16.1"
+specs-derive="0.4.1"
+log="0.4.8"
+fern="0.6"
+chrono="0.4.11"
